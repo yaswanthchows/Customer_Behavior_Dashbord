@@ -4,7 +4,7 @@ Built a Customer Shopping Behavior Analysis project using Python, MYSQL Workbenc
 This project analyzes customer shopping behavior using transactional data to uncover insights into purchasing patterns, customer preferences, and business performance. The workflow includes data cleaning, exploratory data analysis (EDA), SQL-based business analysis, interactive dashboard creation, and reporting to support data-driven decision-making.
 
 ## Dataset
-
+<a href="https://github.com/yaswanthchows/Customer_Behavior_Dashbord/blob/main/customer_shopping_behavior%20Dataset.csv" target="_blank">Customer Shopping Behavior Dataset</a>
 - **Source:** Customer Shopping Behavior Dataset
 - **Records:** 3,900 customer transactions
 - **Features:** Customer demographics, product categories, purchase amount, subscription status, discounts, shipping type, ratings, and purchase history.
