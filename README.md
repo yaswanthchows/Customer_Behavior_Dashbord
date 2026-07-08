@@ -27,6 +27,7 @@ This project analyzes customer shopping behavior using transactional data to unc
 7. Prepared a project report and presentation using Gamma.
 
 ## Dashboard
+<a href="https://github.com/yaswanthchows/Customer_Behavior_Dashbord/blob/main/Customer_Behavior_Dashboard.pbix" target="_blank">Customer Behavior Dashboard </a>
 The Power BI dashboard includes:
 - Revenue and Sales KPIs
 - Customer Segmentation
