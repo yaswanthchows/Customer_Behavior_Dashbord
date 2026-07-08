@@ -49,3 +49,7 @@ The Power BI dashboard includes:
 5. Execute the SQL scripts.
 6. Open the Power BI (.pbix) file to explore the dashboard.
 7. Refer to the report and presentation for detailed findings.
+
+
+## Dashboard Image
+![Customer Behavior Dashboard](https://raw.githubusercontent.com/yaswanthchows/Customer_Behavior_Dashbord/main/Customer_Behavior_dashboard%20Image.png)
